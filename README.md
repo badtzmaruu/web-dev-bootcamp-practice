@@ -26,7 +26,7 @@ This repo serves multiple goals, namely to:
 > Note: All code is written by me for learning purposes while following the course. This repository does **not** include any proprietary course assets.
 
 ## Disclaimer
-This repository is for **educational purposes only**. Credit to Dr. Angela Yu and the team at [App Brewery](https://www.appbrewery.co/) for creating this course. If you're interested in learning web development, I recommend checking this course out
+This repository is for **educational purposes only**. Credit to Dr. Angela Yu and the team at [App Brewery](https://www.appbrewery.com) for creating this course. If you're interested in learning web development, I recommend checking this course out
 
 ## Started: June 2025
 
